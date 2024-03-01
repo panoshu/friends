@@ -1,0 +1,61 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "酷小呵",
+      "url": "https://www.kuhehe.top/",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=3111349763&s=100",
+      "screenshot": "",
+      "description": "酷小呵"
+    },
+    {
+      "title": "Fgaoxing",
+      "url": "https://www.yt-blog.top/",
+      "avatar": "https://npm.elemecdn.com/ytblogimg/webp/logo.webp",
+      "screenshot": "",
+      "description": "一个少年的博客"
+    },
+    {
+      "title": "嵌入式技术栈",
+      "url": "https://www.embeddedstack.cn/",
+      "avatar": "https://www.embeddedstack.cn/site.png",
+      "screenshot": "https://www.embeddedstack.cn/shot.png",
+      "description": " 嵌入式技术栈公众号同名技术分享类网站，分享各种嵌入式、互联网等内容开发经验。"
+    },
+    {
+      "title": "杜老师说",
+      "url": "https://dusays.com/",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "星辰日记",
+      "url": "https://blog.xsot.cn",
+      "avatar": "https://img.iirose.cn/blog/logo.webp",
+      "screenshot": "",
+      "description": "我已很久不再成为我自己"
+    },
+    {
+      "title": "PluginsKers",
+      "url": "https://www.i5res.com/",
+      "avatar": "https://fastly.i5res.com/gh/pluginskers/cdn/2021/20210427202755.jpg",
+      "screenshot": "https://fastly.i5res.com/gh/pluginskers/cdn/2022/20221101210029.png",
+      "description": "凡心所向，素履所往 "
+    },
+    {
+      "title": "MerryJingle",
+      "url": "http://blog.pengfeima.cn",
+      "avatar": "https://avatars.githubusercontent.com/u/115222128",
+      "screenshot": "https://images_github.pengfeima.cn/images/202211172254234.png",
+      "description": "快乐的铃铛"
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png",
+      "screenshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "description": "xaoxuu"
+    }
+  ]
+}
